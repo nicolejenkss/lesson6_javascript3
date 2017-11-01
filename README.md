@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 1, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Nicole Jenks)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we had to add two additonal nodes on the left and the right. These need to show up when you click the "Show More Images" button. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://nicolejenkss.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One concept I learned is DOM and the DOM tree. Each item on the DOM tree is a node. Also, the four aspects of a DOM are identification, traversal, tree manipulation, and Node Manipulation.)
+2. (I learned about DOM document object methods. Common ones are getElementById, getElementsByTagName, getElementsByName, querySelector, and querySelectorAll.)
+3. (Another concept I learned about is the history object. This keeps an internal list of all the documents opened in the current browser being used.)
